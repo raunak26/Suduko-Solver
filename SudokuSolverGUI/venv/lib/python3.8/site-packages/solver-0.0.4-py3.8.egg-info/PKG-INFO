@@ -1,0 +1,46 @@
+Metadata-Version: 1.1
+Name: solver
+Version: 0.0.4
+Summary: Math problem solver
+Home-page: https://github.com/bahrom-matyakubov/solver
+Author: Bahrom Matyakubov
+Author-email: bahrom.matyakubov@gmail.com
+License: MIT
+Description: ******
+        Solver
+        ******
+        
+        *A collection of various methods in order to solve mathematics problems step by step.*
+        
+        |build| |coverage| |pypi_downloads| |pypi_version|
+        
+        .. |build| image:: https://travis-ci.org/bahrom-matyakubov/solver.svg?branch=master
+            :target: https://travis-ci.org/bahrom-matyakubov/solver
+            :alt: Build status of the master branch
+        
+        .. |coverage| image:: https://coveralls.io/repos/bahrom-matyakubov/solver/badge.svg?branch=master
+            :target: https://coveralls.io/r/bahrom-matyakubov/solver?branch=master
+            :alt: Test coverage of the master branch
+        
+        .. |pypi_downloads| image:: https://img.shields.io/pypi/dm/solver.svg
+            :target: https://pypi.python.org/pypi/solver
+            :alt: PyPi downloads per month
+        
+        .. |pypi_version| image:: https://img.shields.io/pypi/v/solver.svg
+            :target: https://pypi.python.org/pypi/solver
+            :alt: PyPi latest version
+Keywords: solver,education,mathematics
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Education
+Classifier: Topic :: Education :: Computer Aided Instruction (CAI)
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
